@@ -273,7 +273,7 @@ include 'includes/navbar.php';
 
             <div class="stat-card">
 
-                <h2 class="counter" data-target="15">
+                <h2 class="counter" data-target="3">
 
                     0
 
@@ -305,7 +305,7 @@ include 'includes/navbar.php';
 
             <div class="stat-card">
 
-                <h2 class="counter" data-target="3">
+                <h2 class="counter" data-target="5">
 
                     0
 
@@ -509,7 +509,7 @@ counters.forEach(counter=>{
 
                     <h3>
 
-                        Ahmad Fauzi
+                        Budiyono 
 
                     </h3>
 
@@ -534,13 +534,13 @@ counters.forEach(counter=>{
 
                     <h3>
 
-                        Muhammad Rizki
+                        Krisna Wijaya
 
                     </h3>
 
                     <p>
 
-                        Pelatih Teknik
+                        Pelatih Fighter
 
                     </p>
 
@@ -559,13 +559,13 @@ counters.forEach(counter=>{
 
                     <h3>
 
-                        Siti Aisyah
+                        Arif Mustofa
 
                     </h3>
 
                     <p>
 
-                        Pelatih Fisik
+                        Pelatih Seni
 
                     </p>
 
@@ -654,23 +654,23 @@ counters.forEach(counter=>{
 
                     <td>Senin</td>
 
-                    <td>19.00 - 21.00</td>
+                    <td>19.00 - 22.00</td>
 
-                    <td>Gedung Olahraga UNIMUS</td>
+                    <td>Gedung Serbaguna(GSG) UNIMUS</td>
 
-                    <td>Ahmad Fauzi</td>
+                    <td>Budiyono</td>
 
                 </tr>
 
                 <tr>
 
-                    <td>Rabu</td>
+                    <td>Kamis</td>
 
-                    <td>19.00 - 21.00</td>
+                    <td>19.00 - 22.00</td>
 
-                    <td>Gedung Olahraga UNIMUS</td>
+                    <td>Gedung Serbaguna(GSG) UNIMUS</td>
 
-                    <td>Muhammad Rizki</td>
+                    <td>Budiyono</td>
 
                 </tr>
 
@@ -680,9 +680,9 @@ counters.forEach(counter=>{
 
                     <td>19.00 - 21.00</td>
 
-                    <td>Gedung Olahraga UNIMUS</td>
+                    <td>Pendopo</td>
 
-                    <td>Siti Aisyah</td>
+                    <td>Krisna Wijaya</td>
 
                 </tr>
 

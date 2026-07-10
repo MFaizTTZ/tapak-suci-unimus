@@ -1602,3 +1602,28 @@ footer{
     background:#5a6268;
 
 }
+/* Badge Prestasi */
+
+.badge-primary{
+
+    background:#0d6efd;
+
+    color:#fff;
+
+}
+
+.badge-warning{
+
+    background:#ffc107;
+
+    color:#000;
+
+}
+
+.badge-info{
+
+    background:#17a2b8;
+
+    color:#fff;
+
+}
