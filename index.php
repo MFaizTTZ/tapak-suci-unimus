@@ -8,6 +8,7 @@ include 'includes/navbar.php';
 
 ?>
 
+
 <!-- ==========================================
      HERO SECTION
 ========================================== -->
@@ -96,7 +97,7 @@ include 'includes/navbar.php';
 
             <div class="about-image">
 
-                <img src="assets/images/about.jpg"
+                <img src="assets/images/pengurus.jpg"
                      alt="Tapak Suci">
 
             </div>
@@ -527,7 +528,7 @@ counters.forEach(counter=>{
 
             <div class="prestasi-card">
 
-                <img src="assets/images/pelatih2.jpg"
+                <img src="assets/images/pelatih2.jpeg"
                      alt="Pelatih">
 
                 <div class="prestasi-body">
